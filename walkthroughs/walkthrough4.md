@@ -12,8 +12,8 @@ All changes in [App.jsx](file:///c:/Users/Admin/new-ts/frontend/src/App.jsx):
 - **Updated** [FormattedOutput](file:///c:/Users/Admin/new-ts/frontend/src/App.jsx#220-285) — now wrapped in a Card with "Trace Result" heading, prop renamed from `result` to `data`
 
 ## Early stage of UI
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## Final UI
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 All three query types render clean, structured components with no raw JSON anywhere.

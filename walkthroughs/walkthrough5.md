@@ -21,10 +21,10 @@ All changes in [App.jsx](file:///c:/Users/Admin/new-ts/frontend/src/App.jsx):
 ## Verification
 
 ### Trace query with graph glow
-![Graph showing glow rings on highlighted nodes with green edges](image-2.png)
+![Graph showing glow rings on highlighted nodes with green edges](images/image-2.png)
 
 ### Top Products (no graph, clean card)
-![Top Products card with bar visualization](image-3.png)
+![Top Products card with bar visualization](images/image-3.png)
 
 ### Broken Flows (anomaly card)
-![Flow Anomalies card](image-4.png)
+![Flow Anomalies card](images/image-4.png)
