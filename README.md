@@ -1,6 +1,9 @@
 # SAP Order-to-Cash (O2C) Graph Explorer
-
 An interactive full-stack application that visualizes SAP Order-to-Cash data as a graph and provides a natural-language chat interface for querying business processes.
+
+<img width="1872" height="913" alt="image" src="https://github.com/user-attachments/assets/6cc99a3b-aebf-4b94-b043-4ef5c13356a1" />
+
+
 
 ### 1. Prerequisites
 - **Node.js** (LTS recommended)
