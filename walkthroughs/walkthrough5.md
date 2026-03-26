@@ -21,10 +21,10 @@ All changes in [App.jsx](file:///c:/Users/Admin/new-ts/frontend/src/App.jsx):
 ## Verification
 
 ### Trace query with graph glow
-![Graph showing glow rings on highlighted nodes with green edges](C:/Users/Admin/.gemini/antigravity/brain/eefdb8f7-d65a-44b1-be05-70ffdb75c026/trace_result_graph_1774510229285.png)
+![Graph showing glow rings on highlighted nodes with green edges](image-2.png)
 
 ### Top Products (no graph, clean card)
-![Top Products card with bar visualization](C:/Users/Admin/.gemini/antigravity/brain/eefdb8f7-d65a-44b1-be05-70ffdb75c026/top_products_result_1774509286626.png)
+![Top Products card with bar visualization](image-3.png)
 
 ### Broken Flows (anomaly card)
-![Flow Anomalies card](C:/Users/Admin/.gemini/antigravity/brain/eefdb8f7-d65a-44b1-be05-70ffdb75c026/broken_flows_result_1774509323738.png)
+![Flow Anomalies card](image-4.png)
